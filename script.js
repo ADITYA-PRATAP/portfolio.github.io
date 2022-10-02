@@ -15,7 +15,7 @@ $(document).ready(function(){
       }else{
         $('.top').hide();
       }
-  
+      
     });
   
     // smooth scrolling 
